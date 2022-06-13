@@ -5,7 +5,7 @@ const Page = (props) => {
     <div>
       <Card 
         title="This is my first project"
-        image=""
+        image="../../public/img/Outside-Foyer-sm.jpg"
         description="Test"
         link=""
       />
